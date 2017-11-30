@@ -6,8 +6,8 @@ that the user intends to type. Autocomplete is most effective when there are a l
 For example, the Internet Movie Database uses it to display the names of movies as the user types; search engines 
 use it to display suggestions as the user enters web search queries; cell phones use it to speed up text input.
 
-To Run this program, download this repository. Can be open as an Eclipse project. 
-The important files are in the "src" folder; Autocomplete.java, AutocompleteGUI.java, BinarySearchDeluxe.java, Term,java.
+To Run this program, download this repository. Can be opened as an Eclipse project. 
+The important files are in the "src" folder; Autocomplete.java, AutocompleteGUI.java, BinarySearchDeluxe.java, Term.java.
 Before compiling these java files 
 download algs4.jar from http://algs4.cs.princeton.edu/code/ 
 download stdlib.jar from http://introcs.cs.princeton.edu/java/stdlib/
